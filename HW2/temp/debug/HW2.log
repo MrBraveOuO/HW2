@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  ex01.c
+e:\高階語言\hw\hw ch2\hw2\hw2\source\ex01.c(54): warning C4101: 'charge': 未參考的區域變數
+e:\高階語言\hw\hw ch2\hw2\hw2\source\ex01.c(92): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+e:\高階語言\hw\hw ch2\hw2\hw2\source\ex01.c(145): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+e:\高階語言\hw\hw ch2\hw2\hw2\source\ex01.c(135): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+e:\高階語言\hw\hw ch2\hw2\hw2\source\ex01.c(252): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  HW2.vcxproj -> E:\高階語言\HW\HW CH2\HW2\HW2\HW2\..\temp\debug\HW2.exe
